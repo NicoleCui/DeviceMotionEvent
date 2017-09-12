@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.bg{
+	width: 100%;
+	height:100%;
+	position: relative;
+}
+#waterball{
+	width: 2.506667rem;
+	height:2.506667rem;
+	border: 1px solid #000; 
+	border-radius: 50%;
+	position: absolute;
+	left: 50%;
+	top:50%;
+	margin: -1.253333rem 0 0 -1.253333rem;
+	overflow: hidden;
+}
+.water{
+	width: 2.666667rem;
+	height: 1.2rem;
+	background: #4787e5;
+}
+
+
+
+
+
+
+
