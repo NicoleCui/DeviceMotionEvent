@@ -8,19 +8,19 @@
 	position: relative;
 }
 #waterball{
-	width: 2.506667rem;
-	height:2.506667rem;
+	width: 180px;
+	height:180px;
 	border: 1px solid #000; 
 	border-radius: 50%;
 	position: absolute;
 	left: 50%;
 	top:50%;
-	margin: -1.253333rem 0 0 -1.253333rem;
+	margin: -90px 0 0 -90px;
 	overflow: hidden;
 }
 .water{
-	width: 2.666667rem;
-	height: 1.2rem;
+	width: 200px;
+	height: 90px;
 	background: #4787e5;
 }
 
