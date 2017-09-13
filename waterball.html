@@ -14,3 +14,11 @@
 	</div>
 </body>
 </html>
+<script>
+	window.addEventListener("deviceorientation", function(event) {
+		var z = event.alpha,//z轴
+			x = event.beta, //x轴
+			y = event.gamma; //y轴
+      // 处理event.alpha、event.beta及event.gamma
+  }, false);
+</script>
